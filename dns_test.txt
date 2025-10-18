@@ -1,0 +1,7 @@
+serveur1.uvsq.fr;192.168.1.10
+serveur2.uvsq.fr;192.168.1.11
+serveur3.uvsq.fr;192.168.1.12
+db1.uvsq.fr;192.168.2.10
+db2.uvsq.fr;192.168.2.11
+mail.uvsq.fr;192.168.3.5
+serveur50.uvsq.com;192.128.255.255
